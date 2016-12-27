@@ -1,9 +1,9 @@
 //
 //  PickerInputLabel.swift
-//  managementDoc
+//  noldam
 //
 //  Created by  noldam on 2016. 11. 3..
-//  Copyright © 2016년 SOFTCITY. All rights reserved.
+//  Copyright © 2016년 Noldam. All rights reserved.
 //
 
 import UIKit
